@@ -4,7 +4,7 @@ const { Client, Util } = require('discord.js');
 const client = new Discord.Client();
 const prefix = "-";
 
-const devs = ["520268009429008385"]
+const devs = ["515316827828781067"]
 
 const adminprefix = "-";
 client.on('message', message => {
@@ -51,4 +51,4 @@ client.on('message', message => {
     }
   
   });
-  client.login("NTIwMjY1OTE5NDk5NTk5OTA1.DurXYA.AzRXFq3Zam5FKJElw4biXDuxGtg");
+  client.login("");
